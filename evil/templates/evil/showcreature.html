@@ -1,4 +1,5 @@
 {% load static %}
+<link type="text/css" rel="stylesheet" href="{% static 'evil/style.css'%}" />
 <b>{{entity.entity_name}}</b>
 <p>{{entity.text_entry}}</p>
 <img src="{{entity.image.url}}" />
@@ -16,8 +17,13 @@
 {% else %}
 <p>Didn't get entity list</p>
 {% endif %}
+<div>
+  <a href="/evil/showcreature/{{prev_index}}"> <img alt="Book of Evil back button" img src="{% static 'evil/images/arrow_end.gif' %}" /></a>
+  <a href="/evil/"> <img alt="Book of Evil index button" img src="{% static 'evil/images/80x80_icon.gif' %}" /></a>
+  <a href="/evil/showcreature/{{next_index}}"> <img alt="Book of Evil forward button" img src="{% static 'evil/images/arrow_beg.gif' %}" /></a>
+</div>
 
 <script
   type="text/javascript"
-  src="{% static 'evil/entity_selector_controller.js' %}"
+  src="{% static 'evil/entity_navigation_controller.js' %}"
 ></script>
