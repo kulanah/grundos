@@ -7,7 +7,7 @@
       <b>{{entity.entity_name}}</b>
       <p>{{entity.text_entry}}</p>
     </div>
-    <img src="{{entity.image.url}}" />
+    <img alt="{{entity.image_alt_text}}"" src="{{entity.image.url}}" />
   </div>
   {% if entity_list %}
   <select id="entity_selector" value="{{entity.id}}">
