@@ -9,9 +9,9 @@
     </div>
     <img src="{{entity.image.url}}" />
   </div>
-  {% if entityList %}
+  {% if entity_list %}
   <select id="entity_selector" value="{{entity.id}}">
-    {% for entity_entry in entityList %} 
+    {% for entity_entry in entity_list %} 
     <option 
       {% if entity.id == entity_entry.id %}selected{% endif %} 
       value="{{entity_entry.id}}"

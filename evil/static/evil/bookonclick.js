@@ -1,5 +1,5 @@
 const book = document.getElementById('book');
-const navigateIn = () => {
+const navigate_in = () => {
   window.location.href = 'showcreature/1';
 };
-book.onclick = navigateIn;
+book.onclick = navigate_in;

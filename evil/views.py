@@ -7,15 +7,15 @@ def index(request):
 
 def showcreature(request, evilentity_id):
   entity = get_object_or_404(EvilEntity, pk=evilentity_id)
-  entityList = EvilEntity.objects.order_by("id")
-  prev_index = evilentity_id - 1 if evilentity_id > 1 else len(entityList)
-  next_index = evilentity_id + 1 if evilentity_id < len(entityList) else 1
+  entity_list = EvilEntity.objects.order_by("id")
+  prev_index = evilentity_id - 1 if evilentity_id > 1 else len(entity_list)
+  next_index = evilentity_id + 1 if evilentity_id < len(entity_list) else 1
   return render(
     request, 
     "evil/showcreature.html", 
     {
       "entity": entity, 
-      "entityList": entityList,
+      "entity_list": entity_list,
       "prev_index": prev_index,
       "next_index": next_index
     }
