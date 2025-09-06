@@ -1,3 +1,4 @@
+/* Index page styling  */
 #index_root{
   width: 480px;
   height: 600px;
@@ -32,6 +33,7 @@
   padding-top: 1em;
 }
 
+/* Entity page styling  */
 #entity_content { 
   width: 800px;
   display: flex;
