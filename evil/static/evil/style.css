@@ -1,11 +1,16 @@
 #indexRoot{
   width: 480px;
+  height: 600px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
 }
 
 #book{
   display: block;
-  min-width: 480px;
-  min-height: 250px;
+  width: 480px;
+  height: 210px;
   background: url("images/evil_book_1.gif");
 }
 
@@ -15,5 +20,14 @@
 }
 
 #rootText{
-  margin-top: 300px;
+  width: 300px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rootTextSection{ 
+  padding-top: 1em;
 }
