@@ -1,0 +1,19 @@
+#indexRoot{
+  width: 480px;
+}
+
+#book{
+  display: block;
+  min-width: 480px;
+  min-height: 250px;
+  background: url("images/evil_book_1.gif");
+}
+
+#book:hover{
+  background: url("images/evil_book2_1.gif");
+  cursor: pointer;
+}
+
+#rootText{
+  margin-top: 300px;
+}
