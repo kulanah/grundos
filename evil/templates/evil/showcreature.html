@@ -1,3 +1,17 @@
 <b>{{entity.entity_name}}</b>
 <p>{{entity.text_entry}}</p>
 <img src="{{entity.image.url}}" />
+
+{% if entityList %}
+<select>
+  {% for entity_entry in entityList %} {% if entity.id == entity_entry.id %}
+  <option selected="selected" value="{{entity_entry.id}}">
+    {{ entity_entry.entity_name}}
+  </option>
+  {% else %}
+  <option value="{{entity_entry.id}}">{{ entity_entry.entity_name}}</option>
+  {% endif %} {% endfor %}
+</select>
+{% else %}
+<p>Didn't get entity list</p>
+{% endif %}
