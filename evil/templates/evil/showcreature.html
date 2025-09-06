@@ -3,7 +3,7 @@
 <p>{{entity.text_entry}}</p>
 <img src="{{entity.image.url}}" />
 {% if entityList %}
-<select value="{{entity.id}}">
+<select id="entity_selector" value="{{entity.id}}">
   {% for entity_entry in entityList %} 
   <option 
     {% if entity.id == entity_entry.id %}selected{% endif %} 
@@ -19,5 +19,5 @@
 
 <script
   type="text/javascript"
-  src="{% static 'evil/entity_selector_contoller.js' %}"
+  src="{% static 'evil/entity_selector_controller.js' %}"
 ></script>
