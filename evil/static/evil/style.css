@@ -1,4 +1,4 @@
-#indexRoot{
+#index_root{
   width: 480px;
   height: 600px;
   display: flex;
@@ -19,7 +19,7 @@
   cursor: pointer;
 }
 
-#rootText{
+#root_text{
   width: 300px;
   display: flex;
   text-align: center;
@@ -28,7 +28,7 @@
   align-items: center;
 }
 
-.rootTextSection{ 
+.root_text_section{ 
   padding-top: 1em;
 }
 
