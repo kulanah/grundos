@@ -1,27 +1,33 @@
 {% load static %}
 <link type="text/css" rel="stylesheet" href="{% static 'evil/style.css'%}" />
-<b>Gallery of Evil</b>
-<b>{{entity.entity_name}}</b>
-<p>{{entity.text_entry}}</p>
-<img src="{{entity.image.url}}" />
-{% if entityList %}
-<select id="entity_selector" value="{{entity.id}}">
-  {% for entity_entry in entityList %} 
-  <option 
-    {% if entity.id == entity_entry.id %}selected{% endif %} 
-    value="{{entity_entry.id}}"
-  >
-      {{ entity_entry.entity_name}} 
-  </option>
-  {% endfor %}
-</select>
-{% else %}
-<p>Didn't get entity list</p>
-{% endif %}
-<div>
-  <a href="/evil/showcreature/{{prev_index}}"> <img alt="Book of Evil back button" img src="{% static 'evil/images/arrow_end.gif' %}" /></a>
-  <a href="/evil/"> <img alt="Book of Evil index button" img src="{% static 'evil/images/80x80_icon.gif' %}" /></a>
-  <a href="/evil/showcreature/{{next_index}}"> <img alt="Book of Evil forward button" img src="{% static 'evil/images/arrow_beg.gif' %}" /></a>
+<b id="entity_page_header">Gallery of Evil</b>
+<div id="entity_content">
+  <div id="entity_entry_row">
+    <div id="entity_text_content">
+      <b>{{entity.entity_name}}</b>
+      <p>{{entity.text_entry}}</p>
+    </div>
+    <img src="{{entity.image.url}}" />
+  </div>
+  {% if entityList %}
+  <select id="entity_selector" value="{{entity.id}}">
+    {% for entity_entry in entityList %} 
+    <option 
+      {% if entity.id == entity_entry.id %}selected{% endif %} 
+      value="{{entity_entry.id}}"
+    >
+        {{ entity_entry.entity_name}} 
+    </option>
+    {% endfor %}
+  </select>
+  {% else %}
+  <p>Didn't get entity list</p>
+  {% endif %}
+  <div id="navigation_button_row">
+    <a href="/evil/showcreature/{{prev_index}}"> <img alt="Book of Evil back button" img src="{% static 'evil/images/arrow_end.gif' %}" /></a>
+    <a href="/evil/"> <img alt="Book of Evil index button" img src="{% static 'evil/images/80x80_icon.gif' %}" /></a>
+    <a href="/evil/showcreature/{{next_index}}"> <img alt="Book of Evil forward button" img src="{% static 'evil/images/arrow_beg.gif' %}" /></a>
+  </div>
 </div>
 
 <script
