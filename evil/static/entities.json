@@ -1,0 +1,10 @@
+{
+  "entities": [
+    {
+      "name": "Dr. Frank Sloth",
+      "description": "Dr. Frank Sloth is a brilliant, insane evil scientist hell-bent on the total destruction of Neopets and Neopia. Arriving at Neopia in his Space Station in year 2, he was narrowly defeated by the Space Faerie.<br><br>Sloth is best known for enslaving an entire planet of alien creatures, Grundos, and mutating them into stronger forms to draft into his army. He has vast technological resources at his disposal, including evil robots, killer clones, space ships and ancient artifacts of major destructive power...<br><br>In short... <b>BEWARE!</b>",
+      "image_source": "evil/images/entities/drsloth.jpg",
+      "image_alt_text": "A pencil drawing of Dr. Frank Sloth standing upright and imposing"
+    }
+  ]
+}
