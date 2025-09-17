@@ -4,10 +4,12 @@
 <div id="entity_content">
   <div id="entity_entry_row">
     <div id="entity_text_content">
-      <b>{{entity.entity_name}}</b>
-      <p>{{entity.text_entry}}</p>
+      <b>{{entity_name}}</b>
+      {% autoescape off %}
+      <p>{{entity_entry}}</p>
+      {% endautoescape %}
     </div>
-    <img alt="{{entity.image_alt_text}}"" src="{{entity.image.url}}" />
+    <img alt="{{entity_alt_text}}"" src="{% static entity_image %}" />
   </div>
   {% if entity_list %}
   <select id="entity_selector" value="{{entity.id}}">
@@ -16,7 +18,7 @@
       {% if entity.id == entity_entry.id %}selected{% endif %} 
       value="{{entity_entry.id}}"
     >
-      {{ entity_entry.entity_name}} 
+      {{ entity_name}} 
     </option>
     {% endfor %}
   </select>
