@@ -5,6 +5,24 @@
       "description": "Dr. Frank Sloth is a brilliant, insane evil scientist hell-bent on the total destruction of Neopets and Neopia. Arriving at Neopia in his Space Station in year 2, he was narrowly defeated by the Space Faerie.<br><br>Sloth is best known for enslaving an entire planet of alien creatures, Grundos, and mutating them into stronger forms to draft into his army. He has vast technological resources at his disposal, including evil robots, killer clones, space ships and ancient artifacts of major destructive power...<br><br>In short... <b>BEWARE!</b>",
       "image_source": "evil/images/entities/drsloth.jpg",
       "image_alt_text": "A pencil drawing of Dr. Frank Sloth standing upright and imposing"
+    },
+    {
+      "name": "Ghost Lupe",
+      "description": "A once brave Lupe knight was killed on the shores of Mystery Island in an attempt to rescue his bride from the natives. In death his spirit is restless, desperately seeking revenge. Although sometimes this wayward spirit may aid you, his anger can easily be directed at those that disturb him... As with all the entries in this book we suggest you steer very clear!",
+      "image_source": "evil/images/entities/ghostlupe.gif",
+      "image_alt_text": "A full colour and rendered image of the ghost lupe standing with one paw lifted off the ground and head turned away"
+    },
+    {
+      "name": "Pant Devil",
+      "description": "The Pant Devil is a strange fellow, rather than kill his victims he prefers to steal all their possessions and then leave the poor souls weakened for others to finish them off. They have been spotted all over Neopia so keep alert!",
+      "image_source": "evil/images/entities/pantdevil.jpg",
+      "image_alt_text": "A pencil drawing of the Pant Devil, he's leaning back and has a huge grin on his face"
+    },
+    {
+      "name": "Malkus Vile",
+      "description": "A particularly despicable character who prefers to get more gullible Neopets to do his dirty work. He will do anything, as long as the reward is great enough.<br><br>Most recently Malkus was seen organising the theft of King Coltzan's Crown with the aid of two brown Meercas.",
+      "image_source": "evil/images/entities/malkus.gif",
+      "image_alt_text": "A pencil drawing of the bust of Malkus Vile, he has one eye wide open and one barely open.  He's wearing a fedora."
     }
   ]
 }
