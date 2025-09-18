@@ -4,7 +4,7 @@
       "name": "Dr. Frank Sloth",
       "description": "Dr. Frank Sloth is a brilliant, insane evil scientist hell-bent on the total destruction of Neopets and Neopia. Arriving at Neopia in his Space Station in year 2, he was narrowly defeated by the Space Faerie.<br><br>Sloth is best known for enslaving an entire planet of alien creatures, Grundos, and mutating them into stronger forms to draft into his army. He has vast technological resources at his disposal, including evil robots, killer clones, space ships and ancient artifacts of major destructive power...<br><br>In short... <b>BEWARE!</b>",
       "image_source": "evil/images/entities/drsloth.jpg",
-      "image_alt_text": "A pencil drawing of Dr. Frank Sloth standing upright and imposing"
+      "image_alt_text": "A black and white pencil drawing of Dr. Frank Sloth standing upright and imposing"
     },
     {
       "name": "Ghost Lupe",
@@ -16,13 +16,163 @@
       "name": "Pant Devil",
       "description": "The Pant Devil is a strange fellow, rather than kill his victims he prefers to steal all their possessions and then leave the poor souls weakened for others to finish them off. They have been spotted all over Neopia so keep alert!",
       "image_source": "evil/images/entities/pantdevil.jpg",
-      "image_alt_text": "A pencil drawing of the Pant Devil, he's leaning back and has a huge grin on his face"
+      "image_alt_text": "A black and white pencil drawing of the Pant Devil, he's leaning back and has a huge grin on his face"
     },
     {
       "name": "Malkus Vile",
       "description": "A particularly despicable character who prefers to get more gullible Neopets to do his dirty work. He will do anything, as long as the reward is great enough.<br><br>Most recently Malkus was seen organising the theft of King Coltzan's Crown with the aid of two brown Meercas.",
       "image_source": "evil/images/entities/malkus.gif",
-      "image_alt_text": "A pencil drawing of the bust of Malkus Vile, he has one eye wide open and one barely open.  He's wearing a fedora."
+      "image_alt_text": "A black and white pencil drawing of the bust of Malkus Vile, he has one eye wide open and one barely open.  He's wearing a fedora."
+    },
+    {
+      "name": "Shadow Usul",
+      "description": "<i>... creeping slowly up the wall, the shadow usul did not make a sound. The light from the moon illuminated the whole area, apart from a slow, crawling blackness, an area in which no light shone. climbing up to the unlocked window, the shadow flowed inside like a river of darkness... </i><br><br> The Shadow Usul only appears at night, and has mainly been spotted in and around Neopia Central. What her motives are we have no idea, but we suggest you keep your wits about you.",
+      "image_source": "evil/images/entities/shadow_usul.gif",
+      "image_alt_text": "A black and white pencil drawing of the Shadow Usul.  She's standing up tall facing to the left. The picture is very wispy."
+    },
+    {
+      "name": "Spider Grundo",
+      "description": "<i>...Step closer my pretty, I won't hurt you.... much... </i><br><br> This evil creature was once a Grundo before Dr Sloth made him the subject of his experiments. Now the Spider Grundo terrorises all who venture into his web.",
+      "image_source": "evil/images/entities/grundospider.gif",
+      "image_alt_text": "A black and white pencil drawing of the Spider Grundo, it's arms and legs are splayed out and it's in the middle of it's web"
+    },
+    {
+      "name": "Jelly Chia",
+      "description": "Once upon a time, a deranged confectioner by the name of Wizzle wanted to create something that would make him famous and rich. He planned to create an 'edible friend', a pet who would be your buddy until you decided it was time to eat it.<br><br>One of his first experiments was the Jelly Chia. He looked after it, read it stories, and educated it about Neopia, until one day Wizzle got peckish. As Wizzle walked up to the Chia, licking his lips, the Chia suddenly realised what was going to happen. In a fit of desperation, the Chia launched himself at Wizzle, enveloping him, and slowly dissolving him. Nobody ever saw Wizzle again after that day.<br><br>If you look carefully at that old, disused chocolate factory on the hill, you may still be able to see this lonely Chia bouncing around, and you may still hear Wizzle's screams. Don't go inside however... whatever you do....",
+      "image_source": "evil/images/entities/jellychia.jpg",
+      "image_alt_text": "A black and white pencil drawing of the Jelly Chia.  He is standing upright and enshourded in shadow."
+    },
+    {
+      "name": "Meuka",
+      "description": "Formed entirely from mucus, the origins of this mutated Meerca are unknown. Maybe a paint brush gone wrong, or perhaps a freak created by one of Sloth's hideous experiments... we will never know.<br><br> Meuka can be seen slithering around the nastier regions of the Haunted Woods eating, well.. devouring everything in his path. His sharp jaws can cut through the vegetation like butter... and the same also goes for young Neopets who wander astray. Avoid!",
+      "image_source": "evil/images/entities/meuka2.jpg",
+      "image_alt_text": "A black and white pencil drawing of Meuka.  He's being held up on his tail.  He has a grin of full teeth."
+    },
+    {
+      "name": "Commander Garoo",
+      "description": "Nobody knows really how Garoo ascended through the ranks of Sloth's evil army so quickly, perhaps it was his mean temper, foul attitude, and utter contempt for other Neopets that caught his master's eye. Within a matter of three years Garoo had been appointed chief commander of Sloth's impending invasion, and subsequent capture of a race of small multi-coloured aliens known as Grundos...<br><br> This mean-spirited Blumaroo has not been seen since Sloth was defeated, and the Virtupets empire crumbled, however when his master returns to power we can assure you that it will not be long before Garoo comes out of hiding...",
+      "image_source": "evil/images/entities/garoo.jpg",
+      "image_alt_text": "A black and white pencil drawing of Commander Garoo.  He's leaning on his far leg and in a position that implies combat."
+    },
+    {
+      "name": "Balthazar",
+      "description": "Balthazar the Lupe was abandoned by his family on the edge of the Haunted Woods as a child. He crawled, hungry and thirsty, through the twisted forest until he came upon a clearing. He could see purple lights in the distance - darkness faeries. As he asked for help they started to giggle, and then to cackle, and all of a sudden they started picking up stones and twigs and threw them at the poor Lupe. Balthazar had no choice but to run away, yelping and crying.<br><br> He somehow managed to survive in the woods, living for years alone, and he never forgot what the faeries did to him that day... Balthazar is now a bounty hunter, capturing young faeries in his magical bottles... and selling them for huge profits.",
+      "image_source": "evil/images/entities/balthazar.gif",
+      "image_alt_text": "A coloured pencil image of Balthazar.  He has a faerie in a jar in his hands and he's smiling evily."
+    },
+    {
+      "name": "Count Von Roo",
+      "description": "Living in the darkest reaches of the Haunted Woods, a place so dark that no sunlight at all reaches through the trees, Count von Roo is a very solitary creature... well, until he gets hungry... Von Roo has been known to glide through the night sky to nearby villages in search of a tasty snack.<br><br> Always make sure your window is closed at night, because if you leave it open, you may not be there in the morning...",
+      "image_source": "evil/images/entities/countvonroo.gif",
+      "image_alt_text": "A full color digital drawing of Count Von Roo.  It's overlaid with a chalky texture.  He has a large open smile and is surrounded in black."
+    },
+    {
+      "name": "Hubrid Nox",
+      "description": "This evil, nefarious, scheming Chia makes his home atop a desolate mountain in the Haunted Woods. He lives alone, as he prefers his devilish plans not to be interrupted. Whether its conquering just one city, or the whole of Neopia, whether he uses ghosts, aliens, zombies or mutants - Hubrid has an evil plan for every day of the week.<br><br> Hubrid's arch enemy is the Wocky known as MAGAX: Destroyer. In fact their conflict is so famous in the world of Neopia they star in their very own game!",
+      "image_source": "evil/images/entities/hubrid_nox.gif",
+      "image_alt_text": "A colour drawing of Hubrid Nox.  There are pencil textures over parts of the drawing.  He's leaning back with an evil smile and wearing a large cloak."
+    },
+    {
+      "name": "Vira",
+      "description": "Vira was a pretty and vain Acara, spending her days playing in the flowers, making daisy chains to braid into her long hair. One day, she wished to be the most beautiful Acara in the whole of the world, but the wrong ears heard her wish. \"You are pretty,\" the shadowy voice said. \"Only I can make you beautiful...\"<br><br> Ever since, Vira has wandered those same fields, kissing the flowers, but making them poisonous to the touch. The magic mirrors she gives away do not show reality, but a twisted, ugly version of it. Anyone who looks into her mirrors at first finds themselves very beautiful, but that beauty fades into ugliness, and the mirror whispers with a dark voice, \"There's only one way to get your beauty back...\"",
+      "image_source": "evil/images/entities/vira.gif",
+      "image_alt_text": "A coloured pencil drawing of Vira.  She is floating in the air and giving a perplexed look forward."
+    },
+    {
+      "name": "Lord Darigan",
+      "description": "His land was plagued by famine and poverty after Meridell stole the magical orb. Bent on revenge Lord Darigan spent many long years tracking down the one thing that could restore peace to his people. When he finally found the orb he began a bitter war that left Meridell devastated as his minions stopped at nothing until they returned the orb to their master.<br><br> Sadly the orb worked its foul magic on Lord Darigan and corrupted his once honest heart. The desire for power drove Lord Darigan to plot the destruction of all Neopia until a brave knight overheard his evil plans...",
+      "image_source": "evil/images/entities/darigan.gif",
+      "image_alt_text": "A pencil drawing of Lord Darigans bust.  It's tinted purple.  He's staring straight forward with a serious expression."
+    },
+    {
+      "name": "The Tax Beast",
+      "description": "This evil little imp seems to think that he is owed a portion of your money. In fact, when he arrives demanding his fair share, with his teeth bared and his claws drawn, most people usually just give him what he wants!<br><br> Keep all your Neopoints safely in the bank - you have been warned!",
+      "image_source": "evil/images/entities/taxbeast.jpg",
+      "image_alt_text": "A black and white pencil image of the front half of the The Tax Beast.  He's standing on all fours and only his head and one of his paws are visible. His shadow doesn't match him, it's a bag of neopoints and a few scattered coins."
+    },
+    {
+      "name": "Lord Kass",
+      "description": "Driven insane by invisible demons, this former general in Lord Darigan's army rose to power after his master's downfall. Through underhand means he slowly took control of the Darigan Citadel that loomed over the happy realm of Meridell, and used his influence to build an army. An army that he would use to try and conquer the lands below.<br><br> What are his motives? Only he knows. Can he be stopped? Now that his magical spell on King Skarl has worn off, a heroic band of knights has started to mobilise against him.<br><br> Will he succeed with his plans?<br><br> Only time will tell.",
+      "image_source": "evil/images/entities/lordkass.jpg",
+      "image_alt_text": "A black and white pencil drawing of Lord Kass.  He has his arms crossed and he's standing upright with a condescending look on his face.  He has a large sword on his belt."
+    },
+    {
+      "name": "Morguss",
+      "description": "Many moons ago, she helped Lord Darigan rise to power. Now, with Darigan out of the way this scheming old Moehog puts her trust in a new champion - Kass. With her potions she makes his troops strong and with her magical spells she spies on the enemies to give Kass the upper hand in battle.<br><br> Her most brilliant idea was to send her daughter to cast a spell over King Skarl with a magical dance, it worked very well too. Don't worry, she has a lot more tricks up those sleeves of hers...",
+      "image_source": "evil/images/entities/morguss.jpg",
+      "image_alt_text": "A black and white pencil drawing of Morguss.  She has a large hunch back and is steepling her fingers."
+    },
+    {
+      "name": "The Court Dancer",
+      "description": "As she spins and waltzes through the stone corridors of Meridell Castle, all who watch fall under her spell.<br><br> This beautiful dancer is none other than the daughter of the evil hag, Morguss. Under the guise of a gift from Lord Kass she was sent to King Skarl, and as Kass's troops attacked, Skarl was powerless to help, smitten with his beautiful new dancer.<br><br> The plan would have worked too, if it wasn't for a brave young girl named Lisha who saw the dancer for what she really was. Where the Court Dancer is today, we do not know.",
+      "image_source": "evil/images/entities/courtdancer.jpg",
+      "image_alt_text": "A black and white pencil drawing of The Court Dancer.  She has a tambourine in her hands and she's smiling over her shoulder."
+    },
+    {
+      "name": "Masila",
+      "description": "Devious and cunning, Masila is also known as the \"Mistress of the double-cross\". Her desire for power is insatiable, and she will do anything to reach the top of the Thieves Guild. She stays with Galem so that she may have his ear, allowing her to subtly shift his decisions towards her favour with suggestions that would otherwise seem innocent. What little softness she has left in her heart, however, belongs to Kanrik -- though Masila would never let her feelings get in the way of her quest for power.",
+      "image_source": "evil/images/entities/masila.jpg",
+      "image_alt_text": "A black and white pencil drawing of Masila.  She's in a full cloak and is looking back over her shoulder."
+    },
+    {
+      "name": "Bringer of Night",
+      "description": "Demigod of death and destruction, the Bringer of Night is known for the senseless slaughter of Bori long, long ago. Unrelenting, and impossible to be reasoned with, this giant, evil being has no compassion... his only interest is destroying everything that lies in his path -- especially the Bori, who escaped him when an unknown power froze their civilization as a means of protecting them.<br><br>",
+      "image_source": "evil/images/entities/bringer.jpg",
+      "image_alt_text": "A black and white pencil and ink drawing of the Bringer.  He has a weapon in his far hand and he's leaning back in a combat ready posture."
+    },
+    {
+      "name": "Galem",
+      "description": "Considered ruthless (even by thief standards), Galem has clawed his way to the top of the Thieves Guild, leaving a none-too-pretty trail behind him. Through threats and bullying, Galem insures that the thieves of the guild never forget he's the boss. He's fairly confident that no one would dare betray him. However, his affection for Masila (and his blindness to her threat) could prove to be his undoing...",
+      "image_source": "evil/images/entities/galem.jpg",
+      "image_alt_text": "A black and white pencil drawing of Galem.  He is standing upright and has a curved knife held menacingly in his hand."
+    },
+    {
+      "name": "Jhudora",
+      "description": "Most villains earn their place in the Gallery of Evil through terrible, malicious deeds. One faerie, however, has never done anything to directly harm Neopia... and that's what has everyone so worried.<br><br> Ranking among Neopia's most feared residents, the dark faerie named Jhudora is often regarded with suspicion (and always approached with caution). Her terrible temper and tendency to deceive and manipulate are well known, but that is hardly enough for the other faeries to condemn her.<br><br> Still, everyone has their suspicions, and as a result she's watched very closely by her faerie sisters. It's rumoured that, over the years, she's had ties to several terrible things that have occurred in Neopia. However, until there is any proof, this cunning faerie will remain free.",
+      "image_source": "evil/images/entities/jhudora.jpg",
+      "image_alt_text": "A black and white digital drawing of Jhudora.  She's shaded in ink splotches.  She's holding her staff up and looking to her side."
+    },
+    {
+      "name": "Captain Scarblade",
+      "description": "Notorious captain of the wicked ship Revenge, just the name Captain Scarblade strikes fear into the heart of every sea-faring Neopian. Self-proclaimed ruler of the five seas of Neopia, Scarblade makes good on his promise that all the riches in the sea are his for the taking. No merchant vessel is safe from his menace while he is on the water; nor port when his ship is at berth. Even other pirates rightfully fear his black sails, because this pirate captain <i>does not share his seas</i>.",
+      "image_source": "evil/images/entities/scarblade.jpg",
+      "image_alt_text": "A black and white digital drawing of Scarblade.  He has a pirates cutlass in his close hand and his mouth is open."
+    },
+    {
+      "name": "Benny",
+      "description": "Benny, known by various nicknames, serves under the notorious Captain Scarblade -- self-proclaimed ruler of the five seas. Benny is considered dangerous and untrustworthy, even among fellow pirates, who try their best to stay on his good side. His skill with the knife is known in every port town, and it's been years since a barkeep asked him to pay his tabs, due to rumours of what happened to the last barkeep who did so on Scurvy Island....",
+      "image_source": "evil/images/entities/benny.gif",
+      "image_alt_text": "A black and white pencil drawing of Benny.  He's holding a rope that is coiled at his feet. He has a scowl on his face."
+    },
+    {
+      "name": "Cursed Jazan",
+      "description": "Yet another unwelcome suitor for Princess Amira, Prince Jazan has a menacing presence that you can almost feel. Claiming to hail from the ruined city of Qasala and bearing what seems to be an ancient marriage agreement, he will stop at nothing to get his way and marry Princess Amira.<br><br>Though his first attempt to court the princess failed and he was expelled from Sakhmet, it is doubtful that he is the type to be brushed aside so easily....",
+      "image_source": "evil/images/entities/jazan.jpg",
+      "image_alt_text": "A black and white digital drawing of Jazan.  His arms are clutched to him and he has a large evil smile on his face."
+    },
+    {
+      "name": "Razul",
+      "description": "There are hardly any words capable of describing Razul's villainy except, perhaps, 'monstrous.' Driven by an insatiable lust for absolute power, he desired immortality so badly that he cursed his entire city (including his own son, Jazan) so that he could one day rise from the grave.<br><br>This twisted demon has now returned, unleashed by a prophecy that Jazan falsely believed would save his people. Razul, in a maniacal frenzy, has gleefully begun burning Sakhmet to the ground. And that's only the beginning...",
+      "image_source": "evil/images/entities/razul.jpg",
+      "image_alt_text": "A black and white digital drawing of Razul.  He's wreathed in flame and has an orb in his hand above his head."
+    },
+    {
+      "name": "The Darkest Faerie",
+      "description": "The Darkest Faerie, also known as \"The Betrayer,\" once belonged to the Council of Twelve that built and benevolently ruled the kingdom of Altador. Though she seemed content at one time to rule alongside the others, this soon changed. The Darkest Faerie betrayed King Altador and the kingdom, and it became horrifyingly clear that she desired to be the land's sole ruler. Not satisfied with simply overthrowing the empire, the Betrayer's thirst for power led her to devise a plan to use her magic to completely rewrite the history of Altador, making herself both the sole founder and queen! Luckily, King Altador and the sorceress Jerdana were able to preempt her scheme with one of their own, and thanks to a pair of unlikely heroes, her other terrible plans were snuffed as well. Nowadays, the Darkest Faerie is trapped in a statue under the watchful eye of Queen Fyora, but evil like hers shall always be a threat.",
+      "image_source": "evil/images/entities/darkestfaerie.gif",
+      "image_alt_text": "A black and white digital drawing of The Darkest Faerie.  Her wings frame her and she has a large jewel on her collar."
+    },
+    {
+      "name": "Eliv Thade",
+      "description": "In his younger days Eliv was hailed for his brilliant mind and nearly revered for his amazing ability to solve even the most complex of puzzles. That all changed one day when a servant of the proud Kacheek offered a puzzle that simply stumped Thade. He anguished over the conundrum for every waking moment during a span of many years, and as a result his sanity slowly slipped away.<br><br>As years passed, the rumour that Eliv Thade had died alone in his castle without ever solving the puzzle that had tormented him for so much of his life persisted. It seems that, although his body is no more, his tortured mind and spirit remain behind. His spectre now haunts the castle, challenging anyone who enters to a dangerous game of wits.",
+      "image_source": "evil/images/entities/evil_elivthade.gif",
+      "image_alt_text": "A black and white pencil drawing of Eliv Thade.  He's leaning back and staring with what looks like suspicion."
+    },
+    {
+      "name": "Xandra",
+      "description": "As a young sorceress studying under the faeries, Xandra developed her magical skills... and a jaded view of the faeries' influence on Neopia. The disillusioned Xandra decided to recreate Neopia to match her own vision. Attempting to make a world for Neopets ruled by a Neopet (her, of course), Xandra used the magic she'd learnt from the faeries against them, turning them all to stone.<br><br> This curse had consequences that not even Xandra could've imagined: without the faeries' power holding Neopia together, dark creatures emerged and preyed upon the very Neopets that Xandra hoped to empower. In the end, Xandra was thwarted by Hanso and turned to stone with her own magic. Her stone figure is now in the care of Queen Fyora, who still hopes to rehabilitate her most promising pupil.",
+      "image_source": "evil/images/entities/evil_xandra.jpg",
+      "image_alt_text": "A black of white pencil drawing of Xandra.  She's standing with her arms out in a combat pose.  Her far hand holds is engulfed in fire and she has a look of anger on her face."
     }
   ]
 }
